@@ -38,9 +38,12 @@ fact CSV.
 Clone (or download) this repo into your skills directory:
 
 ```bash
-git clone https://github.com/<your-username>/messy-data-generator.git \
+git clone https://github.com/sujaynadkarni/data-analyst-datasets.git \
   ~/.claude/skills/messy-data-generator
 ```
+
+> The repo is named `data-analyst-datasets`, but clone it into a folder called
+> `messy-data-generator` so the directory matches the skill's `name` in `SKILL.md`.
 
 Then just ask Claude, e.g. *"generate a messy healthcare dataset for analyst
 practice"* or *"make me a million-row retail dataset to clean"*, and the skill
